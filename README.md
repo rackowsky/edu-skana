@@ -1,1 +1,1 @@
-# edu-skana
+# eduskana
